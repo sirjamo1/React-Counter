@@ -6,5 +6,5 @@
 <h4>Page Preview</h4>
 <br />
 
-![Alt Text](src/imgages/screenshotReactCounter.png?raw=true "React Counter screenshot")
+![Alt Text](src/images/screenshotReactCounter.png?raw=true "React Counter screenshot")
 <br />
