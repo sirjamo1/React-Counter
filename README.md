@@ -6,5 +6,5 @@
 <h4>Page Preview</h4>
 <br />
 
-![Alt Text](src/img/screenshotReactCounter.png?raw=true "Tenzies Game")
+![Alt Text](src/img/screenshotReactCounter.png?raw=true "React Counter screenshot")
 <br />
